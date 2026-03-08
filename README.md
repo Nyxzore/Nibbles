@@ -1,2 +1,1 @@
-# Scripts
-useful scripts for ubuntu/arch
+This is a treasure trove --- at least to me --- of small pieces of code. Hence nibbles. 
