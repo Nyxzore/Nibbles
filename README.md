@@ -1,5 +1,5 @@
 # 🧀 Nibbles
-> A collection of bite-sized code snippets and automation scripts.
+> A collection of byte-sized code snippets.
 
 ### 📂 The Menu
 | File                   | Language | Description                           |
